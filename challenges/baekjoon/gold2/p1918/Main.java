@@ -1,4 +1,4 @@
-package challenges.baekjoon.goldII.p1918;
+package challenges.baekjoon.gold2.p1918;
 
 import java.util.Scanner;
 import java.util.Stack;

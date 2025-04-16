@@ -1,4 +1,4 @@
-package challenges.baekjoon.silverIV.p9012;
+package challenges.baekjoon.silver4.p9012;
 
 import java.util.Scanner;
 import java.util.Stack;
