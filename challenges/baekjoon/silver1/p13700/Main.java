@@ -1,4 +1,4 @@
-package challenges.baekjoon.silver4.p13700;
+package challenges.baekjoon.silver1.p13700;
 
 import java.util.*;
 
